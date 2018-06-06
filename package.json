@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dagilleland/CI-Testing/issues"
   },
-  "homepage": "https://github.com/dagilleland/CI-Testing#readme"
+  "homepage": "https://github.com/dagilleland/CI-Testing#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
 }
