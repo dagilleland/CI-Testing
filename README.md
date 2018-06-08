@@ -1,1 +1,3 @@
 # CI-Testing
+
+<Foo-Bar/>
