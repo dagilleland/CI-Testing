@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dagilleland/CI-Testing#readme",
   "devDependencies": {
-    "vuepress": "^0.10.0"
+    "vuepress": "^1.9.7"
   }
 }
